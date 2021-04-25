@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/projects/static/css/main.f568d28f.chunk.css",
-    "main.js": "/projects/static/js/main.dd42a144.chunk.js",
-    "main.js.map": "/projects/static/js/main.dd42a144.chunk.js.map",
-    "runtime-main.js": "/projects/static/js/runtime-main.ff5e772a.js",
-    "runtime-main.js.map": "/projects/static/js/runtime-main.ff5e772a.js.map",
-    "static/js/2.65c40e20.chunk.js": "/projects/static/js/2.65c40e20.chunk.js",
-    "static/js/2.65c40e20.chunk.js.map": "/projects/static/js/2.65c40e20.chunk.js.map",
-    "index.html": "/projects/index.html",
-    "precache-manifest.bb3cf9870959d122f2c42748f6e9992f.js": "/projects/precache-manifest.bb3cf9870959d122f2c42748f6e9992f.js",
-    "service-worker.js": "/projects/service-worker.js",
-    "static/css/main.f568d28f.chunk.css.map": "/projects/static/css/main.f568d28f.chunk.css.map",
-    "static/js/2.65c40e20.chunk.js.LICENSE.txt": "/projects/static/js/2.65c40e20.chunk.js.LICENSE.txt",
-    "static/media/banner_img12.jpg": "/projects/static/media/banner_img12.d5124330.jpg",
-    "static/media/banner_img22.jpg": "/projects/static/media/banner_img22.560bcba0.jpg",
-    "static/media/banner_img33.jpg": "/projects/static/media/banner_img33.21b99d53.jpg",
-    "static/media/banner_img44.jpg": "/projects/static/media/banner_img44.870581a0.jpg"
+    "main.css": "/myrepo/static/css/main.f568d28f.chunk.css",
+    "main.js": "/myrepo/static/js/main.dd42a144.chunk.js",
+    "main.js.map": "/myrepo/static/js/main.dd42a144.chunk.js.map",
+    "runtime-main.js": "/myrepo/static/js/runtime-main.72f07755.js",
+    "runtime-main.js.map": "/myrepo/static/js/runtime-main.72f07755.js.map",
+    "static/js/2.616bc07f.chunk.js": "/myrepo/static/js/2.616bc07f.chunk.js",
+    "static/js/2.616bc07f.chunk.js.map": "/myrepo/static/js/2.616bc07f.chunk.js.map",
+    "index.html": "/myrepo/index.html",
+    "precache-manifest.e20c654f7f54b32ce370d91b12d9acb9.js": "/myrepo/precache-manifest.e20c654f7f54b32ce370d91b12d9acb9.js",
+    "service-worker.js": "/myrepo/service-worker.js",
+    "static/css/main.f568d28f.chunk.css.map": "/myrepo/static/css/main.f568d28f.chunk.css.map",
+    "static/js/2.616bc07f.chunk.js.LICENSE.txt": "/myrepo/static/js/2.616bc07f.chunk.js.LICENSE.txt",
+    "static/media/banner_img12.jpg": "/myrepo/static/media/banner_img12.d5124330.jpg",
+    "static/media/banner_img22.jpg": "/myrepo/static/media/banner_img22.560bcba0.jpg",
+    "static/media/banner_img33.jpg": "/myrepo/static/media/banner_img33.21b99d53.jpg",
+    "static/media/banner_img44.jpg": "/myrepo/static/media/banner_img44.870581a0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff5e772a.js",
-    "static/js/2.65c40e20.chunk.js",
+    "static/js/runtime-main.72f07755.js",
+    "static/js/2.616bc07f.chunk.js",
     "static/css/main.f568d28f.chunk.css",
     "static/js/main.dd42a144.chunk.js"
   ]
