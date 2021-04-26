@@ -1,0 +1,28 @@
+{
+    "career1":[
+            {
+                "heading": "Working at AASoft",
+                "Data1" :"AA Software & Networking Inc. team members are highly motivated, well-rounded individuals with outstanding credentials, a strong record of professional accomplishments, and best-in-class technology skills."
+            },
+            {
+                "heading": "Culture",
+                "Data1": "We are a company where everybody counts and makes a difference. Innovation is welcome and hard work rewarded. Working with AA Software & Networking Inc. means not only a challenging and rewarding environment but also, exposure to the most exciting projects worldwide. We are committed to foster professional growth and knowledge expansion of our people, since we thrive on their competencies and professional ambitions."
+            },
+            {
+                "heading": "Focus",
+                "Data1": "Our clients are leaders in their respective industries and they are always looking for a competitive edge, so we require individuals well-versed in the leading technologies, and share our 'Imagination, Action, and Joy.' We exist for our clients and we are committed to provide them with the best possible solutions. We bring all our knowledge, experience and expertise to the IT needs of our clients. We demand high-quality innovation and cost-effective IT-services to our customers."
+            },
+            {
+                "heading": "Professional Growth",
+                "Data1": "By putting your technical skills and experience behind AA Software & Networking Inc. services, you will be taken your career to the next level. We are always interviewing qualified individuals who are seeking to better their futures. Here at AA Software & Networking Inc. we encourage Personal and Professional growth through dedication and teamwork. We are on constant look for experts in quality assurance testing to make our team stronger and complete. If your passion is quality then AA Software & Networking Inc. is the right choice."
+            }
+        ],
+        "career2":[
+            {
+                "heading": "Open Positions - 02/27/2020",
+                "Data1" :"(AA Software & Networking, Inc. has openings in The Woodlands, TX) Software Engineer II:",
+                "Data2":"Research, design, develop and test software applications using Java, Java script, Angular JS, Spring, MicroServices, JProfiler, HttpWatch, SOAP, Performance Center, Weblogic, Jboss, Hibernate, Oracle, SQL Server, Websphere, SOAP UI, QTP, Jenkins, Selenium, JIRA and Scrum. Conduct full project development life cycle. Will work in unanticipated locations. Requires Masters in Computer Science, Engineering or related and 1 year experience OR Bachelors in Computer Science, Engineering or related and 5 years progressive experience. Send resume to AA Software & Networking, Inc. 1544 Sawdust Rd., Ste. 270, The Woodlands, TX 77380."
+            }
+        ]
+    
+    }

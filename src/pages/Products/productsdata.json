@@ -1,0 +1,36 @@
+{
+    "product1":[
+        {
+            "heading": "Data Exchange Platform",
+            "Data1" :"Our Data Exchange Platform integrates ERP modules such as Supply Chain Management (SCM), Cutomer Relationship Management (CRM), Business Intelligence (BI), Finanacial Management (FM) seamlesly."
+            
+        },
+        {
+            "heading": "DEP Featutes",
+            "Data1": "Our architects, developers, and testers are trained in the most current technologies and solutions. From initial development to product launch and ongoing maintenance, we design solutions to meet each customer's unique business needs.",
+            "Data2": "DEP Featutes",
+            "Data3": "Seamless Data Integration",
+            "Data4": "Vendor Independence",
+            "Data5": "Common Facade",
+            "Data6": "Integration Patterns",
+            "Data7": "Mediation (Intra-Communication)",
+            "Data8": "Federation (Inter-Communication)",
+            "Data9": "Oracle Applications",
+            "Data10": "Cloud-based development"
+        },
+        {
+            "heading": "DEP Development",
+            "Data1": "DEP is build completely in J2EE platform. It is scaable and easily upgradable product. DEP can support simple to complex integration beteen all major ERP implementations. With it's flexible architecture, It adopts well for all custome developed ERP like application. DEP uses the folwing:",
+            "Data2": "Asynchronous and Synchronous access patterns",
+            "Data3": "Hub & Spoke, Bus Topoligies",
+            "Data4": "Environment: J2EE, Apache Camel, Spring, Hibernate, Oracle"
+        }
+    ],
+    "product2":[
+        {
+            "heading": "Agile Analytic",
+            "Data1": "Our Agile Analytics product gives our customers the ability to develop custom reports, dashboards, and metrics dynamically with very little customization. It goes beyond standard reporting tools. It can be easily configured with existing ERP, CRM and Custom applications. It can connect to multiple databases to pull a single Dashboard."
+        }
+    ]
+
+}

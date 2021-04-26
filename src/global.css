@@ -1,0 +1,18 @@
+h2 {
+    background-color: #101522;
+    color: white;
+    padding: 5px;
+  }
+p {
+    background-color: #101522;
+    color: white;
+    padding: 5px;
+  }
+ul {
+    background-color: #101522;
+    color: white;
+    padding: 1px;
+  }
+span{
+  padding: 2px
+}

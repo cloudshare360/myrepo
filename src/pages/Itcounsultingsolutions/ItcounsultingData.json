@@ -1,0 +1,58 @@
+{
+"counsulting1":[
+        {
+            "heading": "Application Development",
+            "Data1" :"We Design, Build, Implement, Upgrade, Customize, and Support and maintain mid/large-scale application solutions on Java, .Net and ERP technologies. Our talented application architects and developers have a proven track record of designing and developing high-performing, flexible, robust applications using agile software development methods that deliver tangible business results.",
+            "Data2":"Our architects, developers, and testers are trained in the most current technologies and solutions. From initial development to product launch and ongoing maintenance, we design solutions to meet each customer's unique business needs"
+        },
+        {
+            "heading": "Services:",
+            "Data1": "Web services and service oriented architecture design",
+            "Data2": "SharePoint applications, content management and workflow design",
+            "Data3": "Complete application architecture design and development",
+            "Data4": "Infrastructure and application migration"
+        },
+        {
+            "heading": "Technologies:",
+            "Data1": ".NET Development",
+            "Data2": "Java Development",
+            "Data3": "Oracle Applications",
+            "Data4": "Cloud-based development"
+        },
+        {
+            "heading": "Testing Services::",
+            "Data1": "From datacenter operations to virtual machine quality assurance to product development, our testers can provide:",
+            "Data2": "Test planning, case development, and quality assurance",
+            "Data3": "Performance testing",
+            "Data4": "Test Automation (QTP, Selenium)"
+        }
+    ],
+    "counsulting2":[
+        {
+            "heading": "Software Quality Assurance",
+            "Data1": "In today's demanding business scenario it is important and expected to deliver high quality systems in less time and fewer resources. It is getting difficult to manage an in-house testing team and often testing is the function that is less focused on despite being the main criteria behind any successful application development.",
+            "Data2": "Our Testing Services helps companies with its comprehensive set of testing solutions to deliver high quality application within agreed timeframe. Our testing methodologies and solutions are an integrated part of software development lifecycle. It not only helps large organizations to cut cost associated with development and testing activities but also helps achieve predictable and improved quality levels. We provide end-to-end testing services to ensure that customer applications perform to their defined specifications.",
+            "Data3": "Our suite of testing services includes:",
+            "Data4": "Functional Testing",
+            "Data5": "Test Automation",
+            "Data6": "Performance Testing",
+            "Data7": "Functional Testing",
+            "Data8": "Functional testing ensures that the application meets the functional requirements and performs as expected by the business. The focus is mainly on clear definitions of business criticality, identification of end-to-end functionality, and identification of internal interfaces.",
+            "Data9": "Independent functional testing includes:",
+            "Data10": "Functional Testing We check for the correct functionality of the application and ensure what it is exactly supposed to do.",
+            "Data11":"Regression Testing It is imperative to ensure that all application modifications behave as intended and ensure that bugs are identified at the development stage itself.",
+            "Data12": "Component Testing It is quite crucial to check if subsystem components are complying with specifications.",
+            "Data13":"Risk-Based Testing - Critical business functions are checked and ensured that they perform as per specification and business needs"
+        },
+        {
+            "heading": "Test Automation",
+            "Data1" :"Automated testing not only speeds up the testing process but offer faster test cycles. We are committed to cut cost by identifying right testing tools for the right processes. Are efforts are focused towards doing the right analysis and determine the best testing solution that will produce greatest results. Even though we have very well defined manual testing process but automated testing makes its mark in regression testing and this helps us to achieve strict deadlines and deliver quality software that meets stringent quality requirements."
+        },
+        {
+            "heading": "Performance Testing",
+            "Data1" :"Thorough requirement analysis is always the key to success for any application development initiative. We always begin our performance-testing projects keeping in mind the total requirement specification. We work on the detailed plan to optimize performance and fine tune the application's performance environment.",
+            "Data2":"We create detailed workload models and create authentic scenarios for volume tests, stress tests, as well as load, spike, and endurance tests. Aspects like the application's load and usage, application's limits, maximum concurrent users are areas which we cover extensively to understand the performance tuning requirements and develop the plan to anticipate bottlenecks, identify gaps in non-function requirements"
+        }
+    ]
+
+}

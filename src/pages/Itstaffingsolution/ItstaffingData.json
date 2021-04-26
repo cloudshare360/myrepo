@@ -1,0 +1,55 @@
+{
+    "staffingdatainfo1":[
+        {
+            "heading": "Employers",
+            "Data1" :"Information Technology Industry is dynamic in nature and has the pressure to developinnvotiv products and adaptive services. While our clients concentrate on deploying new technologies, mobility initiatives, cloudcomputing, application support and security, we help them acquire talented workforce.",
+            "Data2": "Our IT staffing solutions help you secure and optimize your workforce and talent management strategies. We will put every effort to understand your business need and work culture. We help you develop a hiring strategy. We give you cost effective options. We will present you shortlisted professionals who pass our robust screening and selection process.",
+            "Data3":"Our goal is to enable you to achieve your business targets better, faster and more cost-effectively"
+        },
+        {
+            "heading": "Comprehensive Staffing Solutions",
+            "Data1": "Contract Staffing",
+            "Data2": "Contract-to-Hire",
+            "Data3": "Direct Hire",
+            "Data4": "Training and Placements",
+            "Data5": "Payroll Services",
+            "Data6": "Recruitment Process Outsourcing (RPO)",
+            "Data7": "Payroll Services",
+            "Data8":"In addition to our core IT staffing and consulting solutions, we offer comprehensive Payroll, independent contractor engagement and supplier management solutions that help clients reduce costs and mitigate risks associated with engaging self-identified W2 workers, 1099 independent contractors and Corp-to-Corp contractors."
+        },
+        {
+            "heading": "RPO",
+            "Data":"RPO is a process where an employer transfers all or part of its recruitment processes to an external service provider. Recruitment Process Outsourcers work as your internal recruitment department. An RPO service provider could manage parts or all of the recruitment process like research and recruitment planning, or the entire recruiting / hiring process from job profiling through the on-boarding of the new hire, including recruitment technology, methodology, recruitment advertising and reporting."
+        },
+        {
+            "heading": "RPO powering your business",
+            "Data1": "Dedicated recruitment organization focused only on the client's needs",
+            "Data2": "Seamless integration into existing HR processes & Recruitment administration",
+            "Data3": "100% candidate ownership – every candidate becomes the client's asset",
+            "Data4": "Accountability for performance through Service Level Agreements (SLAs)",
+            "Data5": "Lower total cost per hire – due to exclusivity and decreased attrition",
+            "Data6": "Continual process improvement, 100% transparency, reporting and analysis are an integral part of the services provided"
+        }
+    ],
+    "staffingdatainfo2":[
+        {
+            "heading": "IT Professionals",
+            "Data": "We are specialized and concentrate only Technology Staffing Solutions. Our Professional Staffing is committed to helping you as a job seeker find the next job opportunity and identify the next right step in your career change. We match professionals like you to rewarding contract or direct hire opportunities in your area of expertise. Understanding your specific career goals and objectives is the first step to finding you the next step in your career."
+        }  
+    ],
+    "staffingdatainfo3":[
+        {
+            "heading": "Fresh Graduates",
+            "Data1":"For Qualified and Selected fresh Graduates, We give training in the technology that is in demand and help them find position. Our Training areas include and not limited to the following:",
+            "Data2":"Java Technologies",
+            "Data3":"Oracle Applications",
+            "Data4":"Oracle, SQLSever DBA",
+            "Data5":"GuideWare",
+            "Data6":"Quality Assurance"
+        },
+        {
+            "heading": "Highly Skilled Foreign Nationals:",
+            "Data1": "Based the Client demand and necessity, we process work visa (H1B) for very talented, highly skilled IT professional from other counties. We offer competitive salaries and benefits."
+        }
+    ]
+}

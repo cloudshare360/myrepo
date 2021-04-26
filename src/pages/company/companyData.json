@@ -1,0 +1,28 @@
+{
+    "company":[
+        {
+            "heading":"Who We Are",
+            "Data1":"IT Consulting & Staffing Company",
+            "Data2": "Established in 2005",
+            "Data3":"Located at Huston Metro"
+        },
+        {
+            "heading": "What we do",
+            "Data1":"Product Development",
+            "Data2":"IT Consulting Services",
+            "Data3":"Application Development Services",
+            "Data4":"Application Maintenance Services",
+            "Data5":"Software Quality Assurance Services",
+            "Data6":"IT Staffing Services"
+        },
+        {
+            "heading": "Our Mission",
+            "Data1":"Develop World class Solutions",
+            "Data2":"Provide Employee friendly environment",
+            "Data3":"Help young talent to prosper",
+            "Data4":"Provide Cost effective services to our clients",
+            "Data5":"Help our clients to acquire best of the industry talent",
+            "Data6":"Strive to achieve noticeable position in the field of Information Technology"
+        }
+    ]
+}
